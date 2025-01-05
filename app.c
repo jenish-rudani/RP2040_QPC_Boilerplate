@@ -25,7 +25,7 @@
 ********************************************************************************************/
 
 #include "qpc.h"               // QP/C real-time embedded framework
-#include "pico_app.h"            // Blinky Application interface
+#include "app.h"            // Blinky Application interface
 #include "bsp.h"               // Board Support Package
 
 #ifdef Q_SPY

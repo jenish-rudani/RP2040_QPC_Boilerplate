@@ -54,7 +54,7 @@ add_executable(blink
     bsp.h
     app.c
     main.c
-    pico_app.h
+    app.h
     ${QP_SOURCES}
     )
 

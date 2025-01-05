@@ -33,7 +33,7 @@ This repository contains boilerplate code for setting up the QP/C framework on t
 
 ## Repository Structure
 
-- [app.c](http://_vscodecontentref_/2), [bsp.c](http://_vscodecontentref_/3), [bsp.h](http://_vscodecontentref_/4), [main.c](http://_vscodecontentref_/5), [pico_app.h](http://_vscodecontentref_/6): Source files for the application and board support package.
+- [app.c](http://_vscodecontentref_/2), [bsp.c](http://_vscodecontentref_/3), [bsp.h](http://_vscodecontentref_/4), [main.c](http://_vscodecontentref_/5), [app.h](http://_vscodecontentref_/6): Source files for the application and board support package.
 - [CMakeLists.txt](http://_vscodecontentref_/7): CMake configuration file for building the project.
 - [qp_import.cmake](http://_vscodecontentref_/8): CMake script for importing the QP/C framework.
 

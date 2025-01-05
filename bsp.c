@@ -25,7 +25,7 @@
 ********************************************************************************************/
 
 #include "qpc.h"              // QP/C framework API
-#include "pico_app.h"         // Pico-App Application interface
+#include "app.h"         // Pico-App Application interface
 #include "bsp.h"              // Board Support Package interface
 #include "RP2040.h"           // The device specific header
 #include <stdio.h>            // for printf()

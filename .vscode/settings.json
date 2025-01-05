@@ -40,7 +40,7 @@
         "stdlib.h": "c",
         "binary_info.h": "c",
         "adafruit_kb2040.h": "c",
-        "pico_app.h": "c",
+        "app.h": "c",
         "bsp.h": "c"
     }
 }
